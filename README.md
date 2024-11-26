@@ -1,0 +1,2 @@
+# GameZone
+Website about videogames.
